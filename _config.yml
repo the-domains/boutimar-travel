@@ -1,6 +1,6 @@
 name: Boutimar Travel
 favicon: null
-layout_spectrum: 0.40590381901711226
+layout_spectrum: 0
 typography_spectrum: 0.5698066526092589
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#1d4a8d'
+    - '#b3bfd4'
+    - '#00aded'
+    - '#de914e'
   brandStrength: 0.492110043996945
   lightness: 0.6466834235470742
   saturation: 0.8251711644697934
